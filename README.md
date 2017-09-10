@@ -28,6 +28,10 @@ The program shows the lift moving between floors, and opening/closing its doors.
 
 The simulation will also keep track of the average time it takes for the people to complete their trips, and the fraction of them that get angry
 
+## Copyright
+
+This program is made as an answer to an assignment. Some parts of this program are subject to Copyright by Victoria University of Wellington. These parts are explicitly indicated as code comments
+
 ## Compiling Java files using Eclipse IDE
 
 1. Download this repository as ZIP
